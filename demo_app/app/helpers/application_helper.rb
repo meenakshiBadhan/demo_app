@@ -8,5 +8,8 @@ def full_title(page_title)
 		"#{base_title} | #{page_title}"
 	end
 end 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ba89c67... finish static pages
 end
